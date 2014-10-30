@@ -1,0 +1,87 @@
+/*body {
+	vertical-align: top;
+}*/
+.title {
+	font-family: serif;
+	font-size: 20px;
+	background-color: #E8E8E8;
+	padding-left: 20px;
+	display: block;
+	border-radius: 20px;
+	width: 875px;
+	height: 75px;
+	margin-left:10px;
+}
+.title h1 {
+	padding-top: 15px;
+}
+.home {
+	background-color: #E8E8E8;
+	display: inline-block;
+	height: 350px;
+	width: 230px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top:15px;
+	margin-right: 15px;
+	border-radius: 20px;
+	margin-left: 10px;
+}
+.home ul {
+	padding-left: 20px;
+	margin-top:5px;
+}
+.home ul li {
+	color: blue;
+}
+.home p {
+	margin-bottom: 2px;
+	color: blue;
+}
+.my-essays {
+	background-color: #A8A8A8;
+	display: inline-block;
+	width: 600px;
+	vertical-align: top;
+	margin-top: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 20px;
+	margin-bottom: 20px;
+	font-size: 15px;
+	margin-right: 0 auto;
+}
+.my-essays h2 {
+	font-size: 30px;
+	padding-left: 5px;
+}
+.my-essays p {
+	font-size: 18px;
+}
+.my-essays ul li a {
+	font-weight: 50px;
+	color: blue;
+}
+.my-essays ul li {
+	margin-bottom: 5px;
+}
+.footer {
+	background-color: #E8E8E8;
+	border-radius: 20px;
+	font-size: 15px;
+	padding: 5px;
+	width: 875px;
+	padding-left: 10px;
+	margin-left:10px;
+}
+.indent {
+	list-style-position:inside;
+	text-indent: 10px;
+	list-style-type: circle;
+}
+.red {
+	color:red;
+}
+a:visited {
+	color: red;
+}
